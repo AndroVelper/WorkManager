@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <style name="CustomTimePicker" parent="Theme.AppCompat.Light.Dialog">
+            <item name="colorPrimary">@android:color/holo_purple</item> <!-- Header color -->
+            <item name="android:timePickerStyle">@style/CustomTimePickerStyle</item>
+        </style>
+
+        <style name="CustomTimePickerStyle" parent="Widget.Material3.MaterialTimePicker.Clock">
+            <item name="android:headerBackground">@android:color/holo_purple</item>
+        </style>
+    </resources>

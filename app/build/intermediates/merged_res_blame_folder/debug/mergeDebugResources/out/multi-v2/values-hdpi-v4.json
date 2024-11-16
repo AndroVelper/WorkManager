@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shubham.alarmassignment.app-mergeDebugResources-2:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-4\\cf8cf5e375ccfd6e56fb3f437ff709ca\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

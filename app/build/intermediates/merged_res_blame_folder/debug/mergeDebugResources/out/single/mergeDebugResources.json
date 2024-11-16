@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\layout_item_alarm.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\layout\\item_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\layout_item_add_alarm.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\layout\\item_add_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "com.shubham.alarmassignment.app-debug-4:/raw_notification_sound.mp3.flat",
+        "source": "com.shubham.alarmassignment.app-main-6:/raw/notification_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.7\\com.shubham.alarmassignment.app-main-6:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">Add</string>
+    <string name="alarm_already_present_with_given_date">Alarm Already present With given Date</string>
+    <string name="alarm_is_ringing">Alarm is Ringing</string>
+    <string name="alarm_manager">Alarm Manager</string>
+    <string name="am">AM</string>
+    <string name="app_name">AlarmAssignment</string>
+    <string name="cancel">Cancel</string>
+    <string name="dummy_time">6:00 AM</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="hh_mm_a">hh:mm a</string>
+    <string name="no_alarm_found">No Alarm Found!</string>
+    <string name="notification_permission_needed">Notification Permission Needed</string>
+    <string name="snooze">Snooze</string>
+    <string name="this_is_the_floating_button">This is the floating button</string>
+    <string name="to_receive_notifications_related_to_alarms_please_enable_the_notification_permission">To receive notifications related to alarms, please enable the notification Permission</string>
+    <string name="your_alarm_is_ringing">Your alarm is ringing</string>
+    <style name="Base.Theme.AlarmAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CustomTimePicker" parent="Theme.AppCompat.Light.Dialog">
+            <item name="colorPrimary">@android:color/holo_purple</item> 
+            <item name="android:timePickerStyle">@style/CustomTimePickerStyle</item>
+        </style>
+    <style name="CustomTimePickerStyle" parent="Widget.Material3.MaterialTimePicker.Clock">
+            <item name="android:headerBackground">@android:color/holo_purple</item>
+        </style>
+    <style name="Theme.AlarmAssignment" parent="Base.Theme.AlarmAssignment"/>
+</resources>
